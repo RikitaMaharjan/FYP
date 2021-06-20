@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "717868539860",
+    "firebase_url": "https://ktmeatsrico-default-rtdb.firebaseio.com",
+    "project_id": "ktmeatsrico",
+    "storage_bucket": "ktmeatsrico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717868539860:android:39cf57a5e58e54f22b8041",
+        "android_client_info": {
+          "package_name": "com.example.ktmeatsserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717868539860-0b2eqrr0t1r50gtsu4pqt21ccam0bmhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5mWBYuq0iof7to2Vd3gDTu7VrXy6UAog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717868539860-0b2eqrr0t1r50gtsu4pqt21ccam0bmhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
