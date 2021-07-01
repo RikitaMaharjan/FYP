@@ -33,6 +33,7 @@ dependencies {
     implementation 'com.firebaseui:firebase-ui-database:1.2.0'
     implementation 'com.google.firebase:firebase-config:19.0.3'
     implementation 'androidx.lifecycle:lifecycle-extensions:2.1.0'
+    implementation 'com.jaredrummler:material-spinner:1.1.0'
 
     implementation 'com.rengwuxian.materialedittext:library:2.1.4'
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'

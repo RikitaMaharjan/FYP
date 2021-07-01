@@ -11,7 +11,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     Button btnSignIn;
-    TextView txtSlogan;
+
 
 
 
@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         btnSignIn = (Button)findViewById(R.id.btnSignIn);
-        txtSlogan = (TextView)findViewById(R.id.txtSlogan);
+
 
         btnSignIn.setOnClickListener (new View.OnClickListener() {
             @Override

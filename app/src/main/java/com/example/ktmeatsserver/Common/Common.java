@@ -10,4 +10,14 @@ public class Common {
 
     public static final int PICK_IMAGE_REQUEST = 71;
 
+    public static String convertCodeToString(String code)
+    {
+        if(code.equals("0"))
+            return "Order Placed";
+        else if(code.equals("1"))
+            return "On making";
+        else
+            return "Shipped";
+    }
+
 }
